@@ -32,6 +32,8 @@ dormant — see status below.
 
 ## Setup
 
+Requires **Python 3.10+** (the code uses `X | None` type hints, which need 3.10+).
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
